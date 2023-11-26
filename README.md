@@ -1,1 +1,1 @@
-# image-resource
+# image-resources
